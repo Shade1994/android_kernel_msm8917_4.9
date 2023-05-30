@@ -1,1 +1,1 @@
-# android_kernel_msm9817_4.9
+# android_kernel_msm8917_4.9
